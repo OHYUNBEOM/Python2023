@@ -23,5 +23,19 @@ print('Hello Python')
     - 변수
     - 자료형
     - 연산자
-    - 흐름제어
     
+```python
+full_name='Oh Yun Beom'
+age=26
+print(f"Hello I'm {full_name}, and I'm {age:2.0f} ages.")
+# 출력 결과 : Hello I'm Oh Yun Beom, and I'm 26 ages.
+int1=1566.555555
+print(f"{int1:2.2f}")
+print(f"{int1:1.3f}")
+print(f"{int1:3.4f}")
+# 출력 결과 : 
+# 1566.56
+# 1566.556
+# 1566.5556
+```
+
