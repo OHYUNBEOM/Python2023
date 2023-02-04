@@ -53,10 +53,20 @@ print(f"{int1:3.4f}")
     - 가상환경
     - 객체지향 OOP
         - class
+        ```python
+        # 생성자
+        def __init__(self,number='15더 8117') -> None:
+        print('생성자 생성')
+        self.__number=number
+        ```
     - 패키지
 
 ## 5일차
 1. 파이썬 기본
     - 패키지
     - 입/출력
+    ```python
+    inputs=list(map(int,input('정수 입력> ').split()))
+    print(inputs)
+    ```
     - 예외처리
