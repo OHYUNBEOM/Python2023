@@ -83,4 +83,12 @@ print(f"{int1:3.4f}")
 실행화면 -> 
 ![실행화면](https://github.com/OHYUNBEOM/Python2023/blob/main/images/%EC%8B%A4%ED%96%89%ED%99%94%EB%A9%B4.png?raw=true)
 
-    
+
+## 7일차
+1. 파이썬 응용
+    - 주피터 노트북 사용법
+    - List 연산 추가
+    - 자료구조 추가
+    - 라이브러리 사용법
+    - WinForm 개발(GUI)
+    - 응용 개발
