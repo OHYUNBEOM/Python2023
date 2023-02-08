@@ -99,8 +99,5 @@ print(f"{int1:3.4f}")
         - 기상청 오늘의 날씨 크롤링
         - 데이터포털 OpenAPI 크롤링
         - BeautifulSoup 크롤링
-    
-![실행화면](https://raw.githubusercontent.com/OHYUNBEOM/Python2023/main/images/jupyter_folium.png)
- 
- #### Folium OpenAPI 연동
- 
+    - 자료구조 추가
+    - 윈폼 개발(GUI)
