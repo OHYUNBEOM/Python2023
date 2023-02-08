@@ -95,7 +95,7 @@ print(f"{int1:3.4f}")
 1. 파이썬 응용
     - 라이브러리 사용법
         - urllib.request
-    - 웹 크롤링
+    - 웹 크롤링 [SourceCode](https://github.com/OHYUNBEOM/Python2023/blob/main/Day08/code44_web_crawling_tutorial.ipynb)
         - 기상청 오늘의 날씨 크롤링
         - 데이터포털 OpenAPI 크롤링
         - BeautifulSoup 크롤링
