@@ -101,3 +101,7 @@ print(f"{int1:3.4f}")
         - BeautifulSoup 크롤링
     - 자료구조 추가
     - 윈폼 개발(GUI)
+## 9일차
+    1. 파이썬 응용
+        - GUI 개발(PyQt)
+        - 자료구조 추가
