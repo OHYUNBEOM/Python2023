@@ -1,4 +1,3 @@
-#레이아웃 절대적 배치
 import sys
 from PyQt5.QtWidgets import *
 from PyQt5.QtCore import Qt

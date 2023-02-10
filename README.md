@@ -108,4 +108,11 @@ print(f"{int1:3.4f}")
 1. 파이썬 응용
     - GUI 개발
         - Tkinter 
-        - PyQt 
+        - PyQt 소개,설치
+        - PyQt 기본 사용법
+        - PyQt 위젯
+
+## 10일차
+1. 파이썬 응용
+    -GUI 개발
+        -PyQt 위젯
