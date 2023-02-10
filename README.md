@@ -117,10 +117,11 @@ print(f"{int1:3.4f}")
     -GUI 개발
         -PyQt 위젯
         -PyQt 다이얼로그
-2. CodingTest
-
-![실행화면](https://raw.githubusercontent.com/OHYUNBEOM/Python2023/main/images/Dialog.png)
 
 PyQt Dialog 실행화면
 
-![CodingTest SourceCode]()
+![실행화면](https://raw.githubusercontent.com/OHYUNBEOM/Python2023/main/images/Dialog.png)
+
+
+2. CodingTest
+[CodingTest SourceCode](https://github.com/OHYUNBEOM/Python2023/blob/main/Day10/%EC%98%A4%EC%9C%A4%EB%B2%94_0210_%EC%BD%94%ED%85%8C.ipynb)
