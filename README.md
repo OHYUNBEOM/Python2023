@@ -118,6 +118,6 @@ print(f"{int1:3.4f}")
         -PyQt 위젯
         -PyQt 다이얼로그
 
-![실행화면]()
+![실행화면](https://raw.githubusercontent.com/OHYUNBEOM/Python2023/main/images/Dialog.png)
 
-PyQt 실행화면
+PyQt Dialog 실행화면
