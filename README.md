@@ -125,6 +125,3 @@ PyQt Dialog 실행화면
 
 2. CodingTest
 [CodingTest SourceCode](https://github.com/OHYUNBEOM/Python2023/blob/main/Day10/%EC%98%A4%EC%9C%A4%EB%B2%94_0210_%EC%BD%94%ED%85%8C.ipynb)
-
-## 11일차
-1. 
